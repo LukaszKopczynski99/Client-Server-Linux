@@ -1,0 +1,14 @@
+2021-02-21 23:52:20 - Zalogowano jako: lukasz
+2021-02-21 23:52:20 - Do konta uzytkownika lukasz dodano sume 1000
+2021-02-21 23:52:20 - Z konta uzytkownika lukasz wybrano sume 800
+2021-02-21 23:52:50 - Zalogowano jako: kacper
+2021-02-21 23:52:50 - Z konta uzytkownika kacper wybrano sume 23
+2021-02-22 09:00:47 - Zalogowano jako: lukasz
+2021-02-22 09:00:58 - Zalogowano jako: lukasz
+2021-02-22 09:00:58 - Do konta uzytkownika lukasz dodano sume 1000
+2021-02-22 09:02:43 - Zalogowano jako: kacper
+2021-02-22 09:03:40 - Zalogowano jako: lukasz
+2021-02-22 09:12:03 - Zalogowano jako: lukasz
+2021-02-22 09:12:51 - Zalogowano jako: kacper
+2021-02-22 09:12:59 - Zalogowano jako: lukasz
+2021-02-22 09:12:03 - Do konta uzytkownika lukasz dodano sume 1000
